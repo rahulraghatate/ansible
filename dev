@@ -1,0 +1,11 @@
+[loadbalancer]
+lb01 ansible_host=129.114.32.1 ansible_ssh_user=cc
+
+[webserver]
+ws01 ansible_host=129.114.32.105 ansible_ssh_user=cc
+
+[database]
+db02 ansible_host=129.114.32.107 ansible_ssh_user=cc
+
+[control]
+control ansible_connection=local
