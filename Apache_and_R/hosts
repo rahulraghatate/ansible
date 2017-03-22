@@ -1,0 +1,4 @@
+[apache]
+129.114.33.156 ansible_ssh_user=cc
+[R_hosts]
+129.114.33.156 ansible_ssh_user=cc

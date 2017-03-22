@@ -1,0 +1,10 @@
+Ansible Assignment
+~~~~~~~~~
+
+1.Apache_and_R 
+~~~~~~~~~
+Ansible role and playbook for installing apache as package and R from github on VM's
+  
+2.Emacs_and_MongoDB
+~~~~~~~~~
+Ansible role and playbook for installing emacs on multiple VMs using inventory and also install MongoDB

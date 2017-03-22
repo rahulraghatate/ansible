@@ -1,0 +1,5 @@
+---
+- hosts: emacs_host
+  remote_user: root
+  roles:
+    - rraghata.emacs
